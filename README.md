@@ -55,7 +55,7 @@ Absolute Measurements - [OptiTrack Motive - vrpn client ros](https://wiki.ros.or
 - Reading data: `read_data.m`
 - Plotting data: `data_plotting.m`
 
-## Optimization conducted in Matlab with 4 different optimization algorithms:
+## Optimization conducted in Matlab with 4 different optimization methods:
 - Fmincon (`optim_fmincon.m`)
 - Levenberg-Marquardt (via Simulink Parameter Estimator, `modelS.slx`, `prepareDataSimulink.m`)
 - Genetic Algorithm (`optim_ga.m`)
